@@ -18,4 +18,11 @@
 <img width="542" height="865" alt="สกรีนช็อต 2026-02-19 220633" src="https://github.com/user-attachments/assets/6db5faef-b51d-4b0c-be09-23fd2de79abf" />
 
 5.วิธีการใช้งาน (How to run)
- 5.1Copycode ใน
+ 5.1ดาวโหลดไฟล์ ใน file Code_23.HTML
+ 5.2สามารถกดใช้งานผ่านทาง Chrome , Microsoft Edge
+ 
+6.ผู้พัตนา (Developer)
+นายแทนทัย ฉิมวิเชียร
+ชั้นมัธยมศึกษาปีที่ 4 ห้อง 4 เลขที่่ 23
+โรงเรียนบางบ่อวิทยาคม
+อาจารย์ที่ปรึกษา ครูนฤมล สุนทอง (ครูเฟิร์นสุดสวย)
